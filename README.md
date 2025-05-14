@@ -4,7 +4,7 @@ This project is a web-based application for detecting brain tumors from MRI imag
 
 ## 📊 Model Performance
 
-- **Model Accuracy**: ~70%  
+- **Model Accuracy**: ~90%  
 - **Model Type**: CNN based on MobileNetV2  
 - **Reason for Accuracy**: Limited GPU capacity; trained on lower-resolution images (64x64) to accommodate hardware constraints; can't able to deploy due to large pickle file space.
 
